@@ -10,6 +10,9 @@ Move the paddle using the W and A. Help the ball break all the bricks before you
 
 
 ## Implementation
+Used DOTween nodes to animate properties of the paddle,  and the ball. Caused the ball to  wobble when it is hit
+ Used a DOTween node to animate the entrance and exit of the bricks (including their color and transparency)
+Introduce screen shake when the ball strikes objects
 
 Built using Unity 2022.3.45f
 
@@ -26,4 +29,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Leya Flenoy
